@@ -14,7 +14,7 @@ seaborn==0.13.2
 
 # Bibliotecas para análise de dados
 scipy==1.15.1
-scikit-learn==1.6.0
+scikit-learn==1.6.1
 scipy==1.14.1
 scikit-learn==1.6.1
 
