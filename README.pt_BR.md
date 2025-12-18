@@ -31,23 +31,29 @@ https://github.com/user-attachments/assets/c34557e8-d1a3-4baa-b995-79b91669b3dd
 
  <!--Declaração de Confidencialidade -->
 
+
 <br><br>
 
-#
 
-### ⚠️ Avisos Importantes  
+> [!IMPORTANT]
+>
+> ⚠️ Heads Up 
+>
+>  * Projects and deliverables will be made [publicly available]() only when appropriate and authorized.  
+>
+>  * The course emphasizes [**hands-on learning**]() through the use of real data in professional consulting contexts. 
+>
+>  * All activities and materials will fully comply with the [**academic and ethical guidelines of PUC-SP**]().  
+>
+>  * Any [**confidential information**]() related to this repository will remain strictly private and stored in [private repositories](), in full compliance with confidentiality requirements.  
+>
+>
 
-* Os projetos e entregáveis serão disponibilizados [publicamente]() apenas quando apropriado e autorizado.  
-
-* O curso enfatiza o [**aprendizado prático**]() por meio da utilização de dados reais em contextos profissionais de consultoria.  
-
-* Todas as atividades e materiais estarão em plena conformidade com as [**diretrizes acadêmicas e éticas da PUC-SP**]().  
-
-* Quaisquer [**informações confidenciais**]() relacionadas a este repositório permanecerão estritamente privadas e armazenadas em [repositórios privados](), em total conformidade com os requisitos de confidencialidade.  
-
-#
+#  
 
 <br><br><br>
+
+
 
 <!--END-->
 
